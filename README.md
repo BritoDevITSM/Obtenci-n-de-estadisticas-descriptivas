@@ -1,2 +1,2 @@
-# Obtenci-n-de-estadisticas-descriptivas
+# Obtencion-de-estadisticas-descriptivas
 Repositorio para semana tec TC1002S
